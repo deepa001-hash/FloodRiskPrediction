@@ -1,0 +1,2 @@
+data/raw/rwl_tel_hr_maharashtra_sw_006_2021_2025.csv filter=lfs diff=lfs merge=lfs -text
+data/raw_timeseries/rwl_tel_hr_maharashtra_sw_006_2021_2025.csv filter=lfs diff=lfs merge=lfs -text

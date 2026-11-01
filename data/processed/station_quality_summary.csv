@@ -1,0 +1,106 @@
+Station,River,District,records,minimum,median,maximum,mean_sea_level,zero_gauge
+(Sirpur Dam) Manohar Sagar,Godavari,Gondia,23150,29.103,348.865,991.318,0.0,0.0
+Adhala Dam,Godavari,Ahmadnagar,28326,0.854,677.352,679.671,684.0,0.0
+Alandi Dam,Godavari,Nashik,35833,-99.999,648.511,651.377,655.6,0.0
+Amal-Nallah,-,Chandrapur,29072,11.96,271.32849999999996,997.266,0.0,0.0
+Ambhora Bridge,Godavari,Bhandara,20387,17.917,243.158,1009.811,0.0,0.0
+Ambhora_1,-,Chandrapur,29949,1.0,189.007,957.03,0.0,0.0
+Arni_4,-,Yavatmal,26758,38.071,286.024,982.125,0.0,0.0
+Aurad (Sh),Godavari,Latur,27508,291.73,541.421,543.286,554.3,0.0
+Babhali Barrage,Godavari,Nanded,28747,285.454,332.259,347.93,348.0,0.0
+Bapera Bridge,Godavari,Bhandara,21391,0.999,257.304,969.603,0.0,0.0
+Bawanthadi_1,Godavari,Bhandara,24574,272.425,341.727,987.065,0.0,0.0
+Bembla,-,Yavatmal,28330,8.96,266.097,889.17,0.0,0.0
+Bham Dam,Godavari,Nashik,10338,593.566,611.498,612.418,629.0,0.0
+Bhavali Dam,Godavari,Nashik,10671,-99.999,609.829,615.082,609.75,0.0
+Bhimkund_2,-,Gadchiroli,3240,183.926,184.067,189.939,0.0,0.0
+Bhiwapur Bridge,Godavari,Nagpur,21841,0.001,244.297,856.879,0.0,0.0
+Bhojapur Dam,Godavari,Nashik,34933,-99.999,681.485,685.349,689.0,0.0
+Bindusara Dam,Godavari,Beed,27743,559.714,563.622,568.349,579.97,0.0
+Bodalkasa,Godavari,Gondia,23340,49.336,303.326,844.806,0.0,0.0
+Bor_1,-,Wardha,27720,104.826,326.072,836.313,0.0,0.0
+Borgaon_3,-,Yavatmal,30851,30.115,318.294,893.776,0.0,0.0
+Chandai,-,Chandrapur,25997,2.0,228.951,744.659,0.0,0.0
+Chargaon_1,-,Chandrapur,25942,0.64,225.405,988.559,0.0,0.0
+Chorakhmara,Godavari,Gondia,26921,19.719,299.958,857.629,0.0,0.0
+Chulbandh_1,Godavari,Gondia,22838,259.719,301.421,617.688,0.0,0.0
+Darna Dam,Godavari,Nashik,27691,5.0,569.439,571.65,0.0,0.0
+Dham_1,-,Wardha,22674,320.761,325.4625,833.94,0.0,0.0
+Dina_2,-,Gadchiroli,27902,22.0,226.59300000000002,996.976,0.0,0.0
+Dongargaon_1,-,Chandrapur,24205,3.948,197.037,741.655,0.0,0.0
+Erai_2,-,Chandrapur,24327,135.356,206.34,1019.956,0.0,0.0
+Gadbori_1,-,Chandrapur,14815,1.0,190.618,718.753,0.0,0.0
+Gangapur Dam,Godavari,Nashik,28646,602.395,610.2755,614.938,615.4,0.0
+Gautami Godavari Dam,Godavari,Nashik,35953,-99.999,687.967,694.913,700.0,0.0
+Ghatkul,-,Chandrapur,22470,1.0,150.823,278.214,0.0,0.0
+Ghodazari,-,Chandrapur,24001,0.008,246.909,1019.771,0.0,0.0
+Goki,-,Yavatmal,22973,272.425,314.809,316.332,0.0,0.0
+Gosekhurd_1,Godavari,Bhandara,24420,238.5,243.38,272.425,0.0,0.0
+Itiadoh,Godavari,Gondia,23488,169.279,254.397,1023.572,0.0,0.0
+Kadwa Dam,Godavari,Nashik,36667,79.718,587.681,592.584,591.75,0.0
+Kar_4,-,Wardha,23117,51.824,430.323,936.398,0.0,0.0
+Karanjvan Dam,Godavari,Nashik,33955,6.0,648.874,652.025,655.0,0.0
+Kashyapi Dam,Godavari,Nashik,43091,1.9,660.271,663.209,664.32,0.0
+Kesrali,Godavari,Nanded,27465,0.006,1.505,12.5,358.0,0.0
+Khadakpurna,Godavari,Buldana,29396,-99.999,517.252,520.699,526.5,0.0
+Khairbandha,Godavari,Gondia,23636,153.898,285.373,951.31,0.0,0.0
+Kolgaon (Kolsi),-,Chandrapur,23680,170.627,178.382,272.425,0.0,0.0
+Koradi_1,-,Buldana,25685,58.0,543.875,995.032,0.0,0.0
+Labhansarad,-,Chandrapur,26089,10.664,225.259,994.637,0.0,0.0
+Lalnala,-,Wardha,28907,15.285,232.859,999.461,0.0,0.0
+Lower Dudhana Dam,Godavari,Parbhani,30728,-99.999,424.1325,431.13,431.5,0.0
+Lower Terna,Godavari,Osmanabad,29290,-99.999,603.965,608.564,608.1,0.0
+Lower Wenna (Wadgaon Tank),Godavari,Nagpur,27548,182.266,253.54,863.122,0.0,0.0
+Madan_1,-,Wardha,27798,149.146,327.168,965.338,0.0,0.0
+Madgi Bridge,Godavari,Bhandara,17676,0.001,300.98,884.884,0.0,0.0
+Mahagaon_2,-,Gadchiroli,8580,85.882,117.5505,134.104,0.0,0.0
+Majalgaon,Godavari,Beed,34824,-99.999,429.671,435.334,435.6,0.0
+Makardhokada,-,Nagpur,28256,0.64,296.313,870.447,0.0,0.0
+Managarh,Godavari,Gondia,31750,8.791,332.8925,1002.091,0.0,0.0
+Manar Dam,Godavari,Nanded,27766,388.452,392.396,398.669,398.68,0.0
+Manjra Dam,Godavari,Beed,31740,-99.999,639.436,645.223,646.0,0.0
+Movad,Godavari,Nagpur,18087,0.001,0.678,760.043,0.0,0.0
+Mudgal Barrage,Godavari,Parbhani,25649,379.037,382.868,393.71,395.85,0.0
+Mukane Dam,Godavari,Nashik,36937,5.0,591.121,594.299,597.5,0.0
+Murli_1,-,Yavatmal,18901,30.784,366.228,831.025,0.0,0.0
+Nagaram_5,-,Gadchiroli,27415,94.706,96.295,930.752,0.0,0.0
+Nalleshwar,-,Chandrapur,26457,2.0,209.842,928.481,0.0,0.0
+Nand Tank,Godavari,Nagpur,23898,55.615,244.646,757.287,0.0,0.0
+Navegaon Bandh,-,Gondia,32180,45.685,275.878,953.834,0.0,0.0
+Nayakund Bridge,Godavari,Nagpur,19604,10.795,283.0,979.047,0.0,0.0
+Nilwande Dam_1,Godavari,Ahmadnagar,36236,-99.999,640.236,648.497,652.0,0.0
+Ozarkhed Dam,Godavari,Nashik,40345,6.0,647.78,652.041,653.34,0.0
+Pakdiguddam,-,Chandrapur,28337,-99.999,256.784,953.45,0.0,0.0
+Palkhed Dam_1,Godavari,Nashik,677,-99.999,593.021,595.072,600.0,0.0
+Palkhed Dam_2,Godavari,Nashik,29719,-99.999,594.169,596.059,600.0,0.0
+Panchdhara,-,Wardha,29889,34.148,302.579,968.929,0.0,0.0
+Pandrabodi,-,Nagpur,34472,53.561,256.394,938.277,0.0,0.0
+Parsewada_1,-,Gadchiroli,7545,186.8,187.562,194.287,0.0,0.0
+Pauni Bridge,Godavari,Bhandara,18584,0.014,222.902,760.477,0.0,0.0
+Pench Project,Godavari,Nagpur,23733,0.008,323.439,820.502,0.0,0.0
+Pothra,-,Wardha,29200,2.0,227.769,857.14,0.0,0.0
+Punegaon Dam,Godavari,Nashik,36027,-99.999,689.206,693.713,692.6,0.0
+Raher,Godavari,Nanded,27873,328.82,332.353,341.0,345.0,0.0
+Rajegaon Kati,Godavari,Gondia,16689,0.005,109.425,291.341,0.0,0.0
+Rengepar,-,Gondia,28344,44.09,308.901,930.115,0.0,0.0
+Saikheda_1,-,Yavatmal,30409,14.489,271.988,960.22,0.0,0.0
+Saiki,-,Nagpur,26759,2.0,294.872,909.163,0.0,0.0
+Samangaon B,Godavari,Nashik,19784,0.653,548.157,556.067,557.9,0.0
+Sangamner,Godavari,Ahmadnagar,26637,539.824,541.855,550.307,540.6,0.0
+Sharad_1,-,Yavatmal,5721,40.425,272.425,977.425,0.0,0.0
+Siddeshwar Dam,Godavari,Hingoli,28371,-99.999,411.675,416.121,417.27,0.0
+Somnur,-,Gadchiroli,21831,51.0,52.536,1004.51,0.0,0.0
+Takali_1,-,Yavatmal,983,188.087,203.849,211.805,0.0,0.0
+Tembhurdoh_1,Godavari,Nagpur,27204,0.006,300.5885,621.466,0.0,0.0
+Tisgaon Dam,Godavari,Nashik,36956,6.0,634.608,641.617,641.6,0.0
+Totladoh,Godavari,Nagpur,30530,256.125,485.606,1001.429,0.0,0.0
+Umarzari,-,Gondia,29483,36.033,309.647,945.623,0.0,0.0
+Upper Manar Dam,Godavari,Nanded,37031,289.881,443.093,450.814,451.6,0.0
+Upper Penganga (Isapur Dam),-,Yavatmal,26710,56.052,438.057,1008.34,0.0,0.0
+Upper Wardha_1,-,Amravati,24154,18.301,340.3295,978.417,0.0,0.0
+Vishnupuri,Godavari,Nanded,29116,-99.999,353.448,367.125,366.5,0.0
+Waghad Dam,Godavari,Nashik,25520,-99.999,665.6514999999999,673.167,673.6,0.0
+Waghadi,-,Yavatmal,38286,17.94,318.455,955.607,0.0,0.0
+WagholiButi_1,-,Chandrapur,27686,2.0,202.599,999.662,0.0,0.0
+Waki Dam,Godavari,Nashik,29311,-99.999,620.785,622.807,624.25,0.0
+Waldevi Dam,Godavari,Nashik,21737,-99.999,666.427,673.026,673.2,0.0

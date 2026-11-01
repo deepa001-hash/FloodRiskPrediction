@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary / log files
+*.log
+*.tmp
+*.temp
+*.bak
+.cache/
+.mypy_cache/
+.ruff_cache/
+
+# Secrets and sensitive configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+rainfall_inputs.json
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# pytest / coverage
+.pytest_cache/
+htmlcov/
+.coverage
